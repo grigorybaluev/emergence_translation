@@ -9,8 +9,8 @@
 ###### PART THREE
 * Chapter 6: The Mind Readers
 * Chapter 7: See What Happens
-<br>
-..* Notes
+
+* Notes
 * Bibliography
 * Acknowledgments
 * Index
